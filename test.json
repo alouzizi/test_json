@@ -102,9 +102,9 @@
             ]
         },
         "settings": {
-            "banners": "admob",
+            "banners": "",
             "inters": "admob",
-            "nativees": "admob",
+            "nativees": "",
             "rewards": "admob",
             "openads": "admob"
         }
