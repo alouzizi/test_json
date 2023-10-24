@@ -103,10 +103,10 @@
         },
         "settings": {
             "banners": "",
-            "inters": "applovin",
+            "inters": "admob",
             "nativees": "",
             "rewards": "admob",
-            "openads": "applovin"
+            "openads": "admob"
         }
     }
 }
